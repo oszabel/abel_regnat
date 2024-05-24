@@ -1,0 +1,138 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 152  85  92 }
+
+revolutionary_colors = { 5  0  10 }
+
+historical_score = 250
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas	
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Ábel #0" = 25
+	"Káin #0" = 25
+	"István #5" = 25
+	"MONARCH_NAME_LASZLO" = 25
+	"Lajos #1" = 20
+	"Albert #1" = 20
+	"János #0" = 20
+	"MONARCH_NAME_ULASZLO" = 15
+	"Mátyás #1" = 20
+	"András #3" = 15
+	"Károly #2" = 15
+	"Zsigmond #1" = 10
+	"Béla #4" = 20
+	"Anasztáz #0" = 0
+	"Barnabás #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Dávid #0" = 0
+	"Dömötör #0" = 0
+	"Edvárd #0" = 0
+	"Ernö #0" = 0
+	"Ferenc #0" = 0
+	"Gábor #0" = 0
+	"György #0" = 5
+	"Izsák #0" = 0
+	"Jenõ #0" = 0
+	"MONARCH_NAME_JOZSEF" = 0
+	"Kálmán #1" = 5
+	"Kázmér #0" = 0
+	"Lörinc #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"MONARCH_NAME_MIKLOS" = 5
+	"Oszkár #0" = 0
+	"MONARCH_NAME_OTTO" = 5
+	"Patrik #0" = 0
+	"Péter #0" = 5
+	"Simon #0" = 0
+	"Tamás #0" = 0
+	"Vencel #0" = 0
+
+	"Sára #0" = -7
+	"Julianna Sára #0" = -7
+	"Renáta #0" = -7
+	"Vivien #0" = -5
+	"Anna #0" = -3
+	"Dalma #0" = -7
+	"Erzsébet #0" = -5
+	"Ágnes #0" = -3
+	"Petra #0" = -5
+	"Katalin #0" = -3
+	"Mária #0" = -3
+	"Zsófia #0" = -3
+	"Laura #0" = -7
+	"Lara #0" = -7
+}
+
+leader_names = {
+	Andrássy Alvinczy
+	Bocskay Bethlen Báthory Batthyány Benovský Beleznay
+	Csák
+	Dessewffy
+	Esterházy
+	Festetics Frangepán
+	Garay
+	Hunyadi Hadik Horthy
+	Kinizsi Károlyi Kán "de Kovats" Kemeny
+	Lackovic' Losonci
+	Mészáros Milványi
+	Nadasdy
+	Orsolya-Székely Ozoray
+	Rákóczi Rozgonyi
+	Šubic' Széchenyi
+	Thököly Teleki
+	Vánky
+	Zrinski Zápolya Zichy
+}
+
+ship_names = {
+	Abel
+	Szekely
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+
+army_names = {
+	"$PROVINCE$ serege" 
+}
+
+fleet_names {
+	"$PROVINCE$ flottája"
+}

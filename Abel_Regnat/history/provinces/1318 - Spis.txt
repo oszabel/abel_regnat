@@ -1,0 +1,32 @@
+#1318 - Szepes
+
+owner = HUN
+controller = HUN  
+culture = slovak
+religion = catholic
+capital = "Szepes"
+trade_goods = copper
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 8
+is_city = yes
+add_core = HUN
+add_core = SLO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+
+
+1432.1.1  = { unrest = 10 } # The city is attacked by Hussites
+1434.1.1  = { unrest = 0 }
+1440.1.1  = { unrest = 10 } # Struggles between the supporters of Ladislaus and Elisabeth of Hungary
+1443.1.1  = { unrest = 0 }
+1490.1.1  = { controller = HAB } # Occupied
+1491.11.7 = { controller = HUN }
