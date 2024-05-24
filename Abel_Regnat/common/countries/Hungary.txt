@@ -36,82 +36,81 @@ historical_units = {
 }
 
 monarch_names = {
-	"¡bel #0" = 25
-	"K·in #0" = 25
-	"Istv·n #5" = 25
+	"√Åbel #0" = 25
+	"K√°in #0" = 25
+	"Istv√°n #5" = 25
 	"MONARCH_NAME_LASZLO" = 25
 	"Lajos #1" = 20
 	"Albert #1" = 20
-	"J·nos #0" = 20
+	"J√°nos #0" = 20
 	"MONARCH_NAME_ULASZLO" = 15
-	"M·ty·s #1" = 20
-	"Andr·s #3" = 15
-	"K·roly #2" = 15
+	"M√°ty√°s #1" = 20
+	"Andr√°s #3" = 15
+	"K√°roly #2" = 15
 	"Zsigmond #1" = 10
-	"BÈla #4" = 20
-	"Anaszt·z #0" = 0
-	"Barnab·s #0" = 0
+	"B√©la #4" = 20
+	"Anaszt√°z #0" = 0
+	"Barnab√°s #0" = 0
 	"Bertalan #0" = 0
-	"Boldizs·r #0" = 0
-	"D·vid #0" = 0
-	"Dˆmˆtˆr #0" = 0
-	"Edv·rd #0" = 0
-	"Ernˆ #0" = 0
+	"Boldizs√°r #0" = 0
+	"D√°vid #0" = 0
+	"D√∂m√∂t√∂r #0" = 0
+	"Edv√°rd #0" = 0
+	"Ern√∂ #0" = 0
 	"Ferenc #0" = 0
-	"G·bor #0" = 0
-	"Gyˆrgy #0" = 5
-	"Izs·k #0" = 0
-	"Jenı #0" = 0
+	"G√°bor #0" = 0
+	"Gy√∂rgy #0" = 5
+	"Izs√°k #0" = 0
+	"Jen√µ #0" = 0
 	"MONARCH_NAME_JOZSEF" = 0
-	"K·lm·n #1" = 5
-	"K·zmÈr #0" = 0
-	"Lˆrinc #0" = 0
-	"Luk·cs #0" = 0
-	"M·rk #0" = 0
+	"K√°lm√°n #1" = 5
+	"K√°zm√©r #0" = 0
+	"L√∂rinc #0" = 0
+	"Luk√°cs #0" = 0
+	"M√°rk #0" = 0
 	"MONARCH_NAME_MIKLOS" = 5
-	"Oszk·r #0" = 0
+	"Oszk√°r #0" = 0
 	"MONARCH_NAME_OTTO" = 5
 	"Patrik #0" = 0
-	"PÈter #0" = 5
+	"P√©ter #0" = 5
 	"Simon #0" = 0
-	"Tam·s #0" = 0
+	"Tam√°s #0" = 0
 	"Vencel #0" = 0
 
-	"S·ra #0" = -7
-	"Julianna S·ra #0" = -7
-	"Ren·ta #0" = -7
+	"S√°ra #0" = -7
+	"Julianna S√°ra #0" = -7
+	"Ren√°ta #0" = -7
 	"Vivien #0" = -5
 	"Anna #0" = -3
 	"Dalma #0" = -7
-	"ErzsÈbet #0" = -5
-	"¡gnes #0" = -3
+	"Erzs√©bet #0" = -5
+	"√Ågnes #0" = -3
 	"Petra #0" = -5
 	"Katalin #0" = -3
-	"M·ria #0" = -3
-	"ZsÛfia #0" = -3
+	"M√°ria #0" = -3
+	"Zs√≥fia #0" = -3
 	"Laura #0" = -7
 	"Lara #0" = -7
 }
 
 leader_names = {
-	Andr·ssy Alvinczy
-	Bocskay Bethlen B·thory Batthy·ny Benovsk˝ Beleznay
-	Cs·k
+	Andr√°ssy Alvinczy
+	Bocskay Bethlen B√°thory Batthy√°ny Benovsk√Ω Beleznay
+	Cs√°k
 	Dessewffy
-	Esterh·zy
-	Festetics Frangep·n
+	Esterh√°zy
+	Festetics Frangep√°n
 	Garay
 	Hunyadi Hadik Horthy
-	Kinizsi K·rolyi K·n "de Kovats" Kemeny
+	Kinizsi K√°rolyi K√°n "de Kovats" Kemeny
 	Lackovic' Losonci
-	MÈsz·ros Milv·nyi
+	M√©sz√°ros Milv√°nyi
 	Nadasdy
-	Orsolya-SzÈkely Ozoray
-	R·kÛczi Rozgonyi
-	äubic' SzÈchenyi
-	Thˆkˆly Teleki
-	V·nky
-	Zrinski Z·polya Zichy
+	Orsolya-Sz√©kely Ozoray
+	R√°k√≥czi Rozgonyi
+	≈†ubic' Sz√©chenyi
+	Th√∂k√∂ly Teleki
+	Zrinski Z√°polya Zichy
 }
 
 ship_names = {
@@ -134,5 +133,5 @@ army_names = {
 }
 
 fleet_names {
-	"$PROVINCE$ flott·ja"
+	"$PROVINCE$ flott√°ja"
 }
