@@ -90,7 +90,6 @@ monarch_names = {
 	"Mária #0" = -3
 	"Zsófia #0" = -3
 	"Laura #0" = -7
-	"Lara #0" = -7
 }
 
 leader_names = {
