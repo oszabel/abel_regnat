@@ -5350,6 +5350,7 @@ government_of_abel_reform = {
 	modifiers = {
 		liberty_desire_from_subject_development = -0.33
 		governing_capacity = 1000
+		monarch_lifespan = 0.25
 		max_absolutism = 10
 		discipline = 0.10
 		movement_speed = 0.25
