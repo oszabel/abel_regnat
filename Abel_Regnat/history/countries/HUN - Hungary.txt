@@ -78,34 +78,6 @@ change_estate_land_share = {
 	}
 }
 
-1445.6.7 = {
-	# queen = {
-	# 	country_of_origin = HUN
-	# 	name = "Renáta"
-	# 	dynasty = "Kovács"
-	# 	birth_date = 1425.6.7
-	# 	death_date = 1498.8.5
-	# 	female = yes
-	# 	adm = 6
-	# 	dip = 6
-	# 	mil = 6
-	# }
-}
-
-1445.6.8 = {
-	queen = {
-		country_of_origin = FER
-		name = "Renata"
-		dynasty = "d'Este"
-		birth_date = 1425.6.7
-		death_date = 1498.8.5
-		female = yes
-		adm = 6
-		dip = 6
-		mil = 6
-	}
-}
-
 1462.1.1 = { leader = {	name = "Pál Kinizsi"           	type = general	fire = 2	shock = 3	manuever = 3	siege = 1	death_date = 1494.1.1 } }
 
 1479.11.9 = {
