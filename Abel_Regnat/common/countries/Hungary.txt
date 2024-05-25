@@ -109,7 +109,6 @@ leader_names = {
 	Rákóczi Rozgonyi
 	Šubic' Széchenyi
 	Thököly Teleki
-	Vánky
 	Zrinski Zápolya Zichy
 }
 
