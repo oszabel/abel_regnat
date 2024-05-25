@@ -79,17 +79,17 @@ monarch_names = {
 
 	"Sára #0" = -7
 	"Julianna Sára #0" = -7
-	"Renáta #0" = -7
+	"Renáta #0" = -5
 	"Vivien #0" = -5
 	"Anna #0" = -3
-	"Dalma #0" = -7
+	"Dalma #0" = -5
 	"Erzsébet #0" = -5
 	"Ágnes #0" = -3
 	"Petra #0" = -5
 	"Katalin #0" = -3
 	"Mária #0" = -3
 	"Zsófia #0" = -3
-	"Laura #0" = -7
+	"Laura #0" = -5
 }
 
 leader_names = {
