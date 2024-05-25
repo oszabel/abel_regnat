@@ -17,10 +17,21 @@
 2746 = "Bodony"
 2960 = "Újszandec"
 2998 = "Bodzavásár"
-4173 = { "Szerém" "Szávaszentdemeter"}
 4126 = "Bács"
-4239 = { "Nándorfehérvár" "Nándorfehérvár"}
 4720 = "Genf"
+
+154 = { "Nyitra" "Nyitra" }
+1318 = { "Szepes" "Locse" }
+1772 = { "Pozsony" "Pozsony" }
+4240 = { "Székesfehérvár" "Székesfehérvár" }
+4236 = { "Trencsén" "Trencsén" }
+157 = { "Bihar" "Nagyvárad" }
+4127 = { "Torda" "Torda" }
+1951 = { "Hunyad" "Hunyadvár" }
+158 = { "Maros" "Marosvásárhely" }
+4128 = { "Királyföld" "Nagyszeben" }
+4173 = { "Szerém" "Szávaszentdemeter" }
+4239 = { "Nándorfehérvár" "Nándorfehérvár" }
 
 61 = "Drezda"
 62 = "Lipcse"
@@ -151,13 +162,3 @@
 4531 = "Gyurgyevó"
 4532 = "Szörény"
 
-154 = { "Nyitra" "Nyitra" }
-1318 = { "Szepes" "Locse" }
-1772 = { "Pozsony" "Pozsony" }
-4240 = { "Székesfehérvár" "Székesfehérvár" }
-4236 = { "Trencsén" "Trencsén" }
-157 = { "Bihar" "Nagyvárad" }
-4127 = { "Torda" "Torda" }
-1951 = { "Hunyad" "Hunyadvár" }
-158 = { "Maros" "Marosvásárhely" }
-4128 = { "Királyföld" "Nagyszeben" }
