@@ -1,10 +1,10 @@
-#1318 - Szepes
+#1318 - Spiš
 
 owner = HUN
 controller = HUN  
 culture = slovak
 religion = catholic
-capital = "Szepes"
+capital = "Spiš"
 trade_goods = copper
 hre = no
 base_tax = 8

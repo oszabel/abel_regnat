@@ -28,4 +28,3 @@ discovered_by = QAS
 1515.1.1 = { revolt = {} controller = HUN } # Estimated, put down by the Voyevode of Transylvania, Szapolyiai
 1517.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Szekely rebellion
 1518.1.1 = { revolt = {} controller = HUN } # Estimated
-

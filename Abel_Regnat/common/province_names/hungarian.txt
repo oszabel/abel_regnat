@@ -17,9 +17,9 @@
 2746 = "Bodony"
 2960 = "Újszandec"
 2998 = "Bodzavásár"
-4173 = "Szerém"
+4173 = { "Szerém" "Szávaszentdemeter"}
 4126 = "Bács"
-4239 = "Nándorfehérvár"
+4239 = { "Nándorfehérvár" "Nándorfehérvár"}
 4720 = "Genf"
 
 61 = "Drezda"

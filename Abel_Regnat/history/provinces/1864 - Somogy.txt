@@ -11,7 +11,7 @@ religion = catholic
 capital = "Kaposvár"
 trade_goods = livestock
 hre = no
-base_tax = 8 
+base_tax = 8
 base_production = 8
 base_manpower = 8
 is_city = yes
@@ -31,4 +31,3 @@ discovered_by = ottoman
 1507.1.1 = { revolt = {} controller = HUN } # Estimated
 1514.4.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Peasant rebellion against Hungary's magnates
 1515.1.1 = { revolt = {} controller = HUN } # Estimated
-

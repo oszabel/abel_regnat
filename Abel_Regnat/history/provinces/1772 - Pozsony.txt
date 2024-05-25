@@ -2,9 +2,9 @@
 
 owner = HUN
 controller = HUN
-culture = hungarian
+culture = slovak
 religion = catholic
-capital = "Pozsony"
+capital = "Pressburg"
 trade_goods = grain
 hre = no
 base_tax = 12
@@ -31,4 +31,3 @@ center_of_trade = 1
 1443.1.1 = { unrest = 0 }
 1490.1.1 = { controller = HAB } # Occupied
 1491.11.7 = { controller = HUN }
-

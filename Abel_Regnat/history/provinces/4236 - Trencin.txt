@@ -1,10 +1,10 @@
-#4236 - Trencsén
+#4236 - Trencin
 
 owner = HUN
 controller = HUN 
 culture = slovak
 religion = catholic
-capital = "Trencsén"
+capital = "Trencin"
 trade_goods = iron
 hre = no
 base_tax = 8
@@ -30,4 +30,3 @@ discovered_by = QAS
 1443.1.1 = { unrest = 0 }
 1490.1.1 = { controller = HAB } # Occupied
 1491.11.7 = { controller = HUN }
-

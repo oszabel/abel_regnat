@@ -27,3 +27,4 @@ discovered_by = ottoman
 1507.1.1 = { revolt = {} controller = HUN }
 1514.4.1 = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Peasant rebellion against Hungary's magnates
 1515.1.1 = { revolt = {} controller = HUN }
+

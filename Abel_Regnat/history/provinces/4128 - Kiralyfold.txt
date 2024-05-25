@@ -1,10 +1,10 @@
-#4128 - Királyföld
+#1951 - Hunyad
 
 owner = HUN
 controller = HUN 
 culture = transylvanian #Transylvanian Saxons
 religion = catholic
-capital = "Nagyszeben"
+capital = "Sibiu"
 trade_goods = cloth
 hre = no
 base_tax = 8

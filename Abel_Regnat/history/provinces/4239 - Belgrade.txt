@@ -1,15 +1,15 @@
-#4239 - Nándorfehérvár
+#4239 - Belgrade
 
-owner = HUN
-controller = HUN
-culture = hungarian
+owner = SER
+controller = SER
+culture = serbian
 religion = catholic
-capital = "Nándorfehérvár"
+capital = "Belgrade"
 trade_goods = cloth
 hre = no
-base_tax = 8
-base_production = 8
-base_manpower = 8
+base_tax = 10
+base_production = 10
+base_manpower = 10
 is_city = yes
 fort_15th = yes
 add_core = SER

@@ -1,10 +1,10 @@
-#4173 - Szerém
+#4173 - Syrmia
 
 owner = HUN
 controller = HUN 
-culture = hungarian
+culture = serbian
 religion = catholic
-capital = "Szávaszentdemeter"
+capital = "Mitrovica"
 trade_goods = grain
 hre = no
 base_tax = 8
@@ -26,4 +26,3 @@ discovered_by = ottoman
 1471.1.1 = { capital = "Kupinik" }
 1514.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Rebel peasant troops led by Gheorghe Doja
 1514.6.1 = { revolt = {} controller = HUN } # Estimated
-
