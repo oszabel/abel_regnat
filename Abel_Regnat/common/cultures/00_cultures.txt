@@ -2257,7 +2257,7 @@ carpathian = {
 			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
 			Erdõdy Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy 
 			Thököly Tisza Zrínyi Teleki
-			Majláth Dóczy Dobó Koháry Orczy Frankopan Garay Mikes Szécsi Imreffy Nádasdy Rhédey Orsolya-Székely Vánky
+			Majláth Dóczy Dobó Koháry Orczy Frankopan Garay Mikes Szécsi Imreffy Nádasdy Rhédey Orsolya-Székely
 			
 			#CK2
 			Zrinski Hadik Both "Rákóczi" Forgách Cseszneky Derencsényi Décsey Révay Esterházy
@@ -2281,14 +2281,14 @@ carpathian = {
 		}
 		female_names = {
 			Ágnes Agnes Éva Eva Adelaida Adelaide Agáta Agatha Amália Amelia Angyalka Anikó Aranka 
-			Bertha Borbála Csilla Csillag Czenzi Dalma Dorottya Dorothy Edit Edith Emõke Emese Erika Erzsébet 
+			Bertha Borbála Cecília Csilla Csillag Czenzi Dalma Dorottya Dorothy Edit Edith Emõke Emese Erika Erzsébet 
 			Elisabeth Eszter Berta Anna
 			Etel Euphemia Euphemia Gizella Gisela Györgyi Georgia Hajnal Hedwig Hedwig Ibolya Ildikó 
-			Irén Irene Jácinta Józsa Júlia Juliana Jolán Judith Judith Kamilla Camilla Katalin 
+			Irén Irene Jácinta Józsa Júlia Julianna Jolán Judith Judith Kamilla Camilla Katalin 
 			Kinga Klára Clara Catherine Illona
 			Konstancia Constance Krisztina Christina Kunigunda Kunigunde Luca Laura Lara Mária Maria Márta Martha 
 			Magdolna Magdalena Margaréta Margaret Margit Matild Matilda Natália Natalia Odola Orsolya 
-			Panni Piroska Renáta Rózsa Rosa Sára Sarah Sarolt Zsuzsa Zsanett
+			Panni Piroska Renáta Rózsa Rosa Sára Sarolt Zsuzsa Zsanett
 			Skolasztika Sophia Sophia Tundér Terezia Teresa Viola Viola Virág Zoltána Zsófia Sophia
 		}
 	}

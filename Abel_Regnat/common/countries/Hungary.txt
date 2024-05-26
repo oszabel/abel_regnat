@@ -80,6 +80,7 @@ monarch_names = {
 	"Sára #0" = -7
 	"Julianna Sára #0" = -7
 	"Renáta #0" = -5
+	"Cecília Renáta #0" = -5
 	"Vivien #0" = -5
 	"Anna #0" = -3
 	"Dalma #0" = -5
