@@ -489,11 +489,12 @@ add_government_reform = autocracy_reform }
 		mil = 5
 		leader = {	name = "Gergely I Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
 	}
+	leader = {	name = "Dessewffy Máté"         	type = general	fire = 4	shock = 4	manuever = 5	siege = 5	death_date = 1734.5.5 }
 }
 
 1718.5.10 = {
 	monarch = {
-		name = "Nálim Potter"
+		name = "Dessewffy Máté"
 		birth_date = 1677.6.29
 		death_date = 1734.5.5
 		adm = 4
@@ -781,20 +782,6 @@ add_government_reform = autocracy_reform }
 
 1914.6.28. = {
 	monarch = {
-		name = "Sára I"
-		dynasty = "Orsolya-Székely"
-		culture = hungarian
-		birth_date = 1842.1.12
-		death_date = 1928.5.17
-		female = yes
-		adm = 5
-		dip = 4
-		mil = 4
-	}
-}
-
-1928.5.17 = {
-	monarch = {
 		name = "Béla V"
 		dynasty = "Orsolya-Székely"
 		culture = hungarian
@@ -827,7 +814,6 @@ add_government_reform = autocracy_reform }
 		dynasty = "Orsolya-Székely"
 		culture = hungarian
 		birth_date = 1952.12.28
-		death_date = 2023.3.16	
 		adm = 5
 		dip = 1
 		mil = 5
@@ -840,7 +826,7 @@ add_government_reform = autocracy_reform }
 		name = "Ábel VI"
 		dynasty = "Orsolya-Székely"
 		culture = hungarian
-		birth_date = 1952.12.28	
+		birth_date = 2005.12.4	
 		adm = 6
 		dip = 6
 		mil = 6
