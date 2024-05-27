@@ -5350,12 +5350,13 @@ government_of_abel_reform = {
 	}
 	nation_designer_cost = 50
 	modifiers = {
-		liberty_desire_from_subject_development = -0.33
+		liberty_desire = -0.33
 		governing_capacity = 1000
 		monarch_lifespan = 0.25
 		ae_impact = -0.66
-		max_absolutism = 10
-		discipline = 0.20
+		spy_action_cost_modifier = -0.33
+		max_absolutism = 15
+		discipline = 0.33
 		movement_speed = 0.25
 		diplomats = 1
 		colonists = 2
@@ -5368,6 +5369,10 @@ government_of_abel_reform = {
 		global_trade_power = 0.66
 		trade_efficiency = 0.66
 		num_accepted_cultures = 10
+		colony_development_boost = 4
+		may_explore = yes
+		range = 1
+		colonist_placement_chance = 0.2
 		may_recruit_female_generals = yes
 	}
 	conditional = {
