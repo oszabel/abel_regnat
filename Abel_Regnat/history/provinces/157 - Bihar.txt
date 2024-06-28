@@ -1,0 +1,33 @@
+#157 - Bihar
+
+owner = HUN
+controller = HUN 
+culture = transylvanian
+religion = abelism
+capital = "Oradea"
+trade_goods = naval_supplies
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 8
+is_city = yes
+add_core = HUN
+add_core = TRA
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1506.1.1 = { revolt = { type = anti_tax_rebels size = 0.5 } controller = REB } # Szekely rebellion
+1507.1.1 = { revolt = {} controller = HUN }
+1514.4.1 = { revolt = { type = anti_tax_rebels size = 0.5 } controller = REB } # Peasant rebellion against Hungary's magnates
+1515.1.1 = { revolt = {} controller = HUN }
+1517.1.1 = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Szekely rebellion
+1518.1.1 = { revolt = {} controller = HUN }
+

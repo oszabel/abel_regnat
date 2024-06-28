@@ -1,0 +1,835 @@
+government = monarchy
+add_government_reform = government_of_abel_reform
+primary_culture = hungarian
+add_accepted_culture = slovak
+add_accepted_culture = transylvanian
+religion = abelism
+technology_group = western
+capital = 153 # Buda
+historical_friend = HAB
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
+
+1387.3.31 = {
+	monarch = {
+		name = "Sigismund I"
+		dynasty = "von Luxemburg"
+		birth_date = 1368.2.14	
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
+
+# Personal union with Habsburg under Albrecht II 1437-39
+# Personal union with Poland under Wladyslaw III 1439-44
+
+1444.11.10 = {
+	monarch = {
+		name = "Ábel I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1425.12.4
+		death_date = 1496.1.17		
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Ábel I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	heir = {
+		# name = "Sára"
+		# monarch_name = "Sára I"
+		# dynasty = "Orsolya-Székely"
+		# culture = hungarian
+		# birth_date = 1444.11.9
+		# death_date = 1452.2.28
+		# female = yes		
+		# adm = 6
+		# dip = 6
+		# mil = 6
+		# leader = {	name = "Sára I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6  female = yes}
+		name = "Káin"
+		monarch_name = "Káin I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1444.11.9
+		death_date = 1579.12.4		
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Káin I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	queen = {
+		country_of_origin = FER
+		name = "§VRenata§!"
+		dynasty = "d'Este"
+		birth_date = 1425.6.7
+		death_date = 1498.8.5
+		female = yes
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1462.1.1 = { leader = {	name = "Pál Kinizsi"           	type = general	fire = 2	shock = 3	manuever = 3	siege = 1	death_date = 1494.1.1 } }
+
+1479.11.9 = {
+	heir = {
+		name = "Káin"
+		monarch_name = "Káin I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1479.11.9
+		death_date = 1579.12.4		
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Káin I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
+
+1496.1.17 = {
+	monarch = {
+		name = "Káin I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1479.11.9
+		death_date = 1579.12.4			
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Káin I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	queen = {
+		country_of_origin = HUN
+		name = "Laera"
+		dynasty = "Vesperzys"
+		birth_date = 1481.5.2
+		death_date = 1564.8.5
+		female = yes
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+#1500.1.1 = { decision = court_of_wards_and_liveries }
+
+1515.1.1 = { leader = {	name = "Miklós Zrínyi"         	type = general	fire = 2	shock = 4	manuever = 3	siege = 1	death_date = 1530.1.1 } }
+
+1526.8.30 = {leader = {	name = "János I Szapolyai"       	type = general	fire = 2	shock = 2	manuever = 2	siege = 0}	}
+
+1529.12.4 = {
+	heir = {
+		name = "Ábel"
+		monarch_name = "Ábel II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1529.12.4
+		death_date = 1607.4.7		
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Ábel II Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
+
+1540.8.30 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1541.1.1 = { capital = 154 } # Pressburg
+
+1579.12.4 = {
+	monarch = {
+		name = "Ábel II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1529.12.4
+		death_date = 1607.4.7		
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Ábel II Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	queen = {
+		country_of_origin = VEN
+		name = "Vivien"
+		dynasty = "Vivere-Verdi"
+		birth_date = 1555.8.5
+		death_date = 1637.7.21
+		female = yes
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1595.5.28 = {
+	heir = {
+		name = "István"
+		monarch_name = "István VI"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1595.5.28
+		death_date = 1646.8.20		
+		adm = 4
+		dip = 4
+		mil = 6
+		leader = {	name = "István VI Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
+
+1596.1.1 = { leader = {	name = "István Bocskai"        	type = general	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1606.1.1 } }
+
+1607.4.7 = {
+	monarch = {
+		name = "Vivien Vivere-Verdi"
+		birth_date = 1555.8.5
+		death_date = 1637.7.21
+		female = yes
+		adm = 6
+		dip = 6
+		mil = 6
+		regent = yes
+	}
+	heir = {
+		name = "István"
+		monarch_name = "István VI"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1595.5.28
+		death_date = 1632.8.20		
+		adm = 4
+		dip = 4
+		mil = 6
+		leader = {	name = "István VI Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
+
+1610.5.28 = {
+	monarch = {
+		name = "István VI"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1595.5.28
+		death_date = 1628.8.20		
+		adm = 4
+		dip = 4
+		mil = 6
+		leader = {	name = "István VI Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
+
+1613.1.1 = { leader = {	name = "Gábor Bethlen"         	type = general	fire = 2	shock = 3	manuever = 5	siege = 1	death_date = 1629.11.15 } }
+
+1613.9.16 = {
+	queen = {
+		country_of_origin = FRA
+		name = "Hélene"
+		dynasty = "Cordonnier"
+		birth_date = 1596.8.30
+		death_date = 1652.11.14
+		female = yes
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+	heir = {
+		name = "Ábel"
+		monarch_name = "Ábel III"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1611.1.14
+		death_date = 1632.3.25		
+		adm = 4
+		dip = 4
+		mil = 5
+		leader = {	name = "Ábel III Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+}
+
+1628.8.20 = {
+	monarch = {
+		name = "Ábel III"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1611.1.17
+		death_date = 1632.3.25.		
+		adm = 4
+		dip = 4
+		mil = 5
+		leader = {	name = "Ábel III Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+}
+
+1632.3.25 = {
+	monarch = {
+		name = "István VII"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1613.9.16
+		death_date = 1646.12.15		
+		adm = 5
+		dip = 4
+		mil = 5
+		leader = {	name = "István VII Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	heir = {
+		name = "István"
+		monarch_name = "István VIII"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1631.9.8
+		death_date = 1652.4.22		
+		adm = 1
+		dip = 4
+		mil = 4
+		leader = {	name = "István VIII Orsolya-Székely"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 4 }
+	}
+	queen = {
+		country_of_origin = HUN
+		name = "Erzsébet"
+		dynasty = "Zrínyi"
+		birth_date = 1611.1.11
+		death_date = 1666.1.18
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+}
+
+1646.12.15 = {
+	monarch = {
+		name = "István VIII"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1631.9.8
+		death_date = 1652.4.22		
+		adm = 1
+		dip = 4
+		mil = 4
+		leader = {	name = "István VIII Orsolya-Székely"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 4 }
+	}
+}
+
+1649.1.1 = { leader = {	name = "Miklós Zrínyi II"      	type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1664.1.1 } }
+
+1652.4.22 {
+	monarch = {
+		name = "Káin II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1633.2.6
+		death_date = 1681.12.2		
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Káin II Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	heir = {
+		name = "Anna"
+		monarch_name = "Anna I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1650.8.4
+		death_date = 1703.5.8
+		female = yes		
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Anna I Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	queen = {
+		country_of_origin = FER
+		name = "Maria"
+		dynasty = "d'Este"
+		birth_date = 1635.3.20
+		death_date = 1692.1.30
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1678.1.1 = { leader = {	name = "Imre Thököly"          	type = general	fire = 1	shock = 3	manuever = 2	siege = 1	death_date = 1705.9.13 } }
+
+1681.12.2. = {
+	monarch = {
+		name = "Anna I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1650.8.4
+		death_date = 1703.5.8
+		female = yes		
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Anna I Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5	female = yes }
+	}
+	heir = {
+		name = "Ábel"
+		monarch_name = "Ábel IV"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1677.6.1.
+		death_date = 1711.5.07		
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Ábel IV Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	queen = {
+		country_of_origin = HAB
+		name = "Farnz"
+		dynasty = "von Habsburg"
+		birth_date = 1648.7.12.
+		death_date = 1698.6.27.
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+1691.1.1 = { leader = {	name = "Ferenc Rakóczi II"     	type = general	fire = 2	shock = 4	manuever = 2	siege = 0	death_date = 1735.4.8 }	}
+
+1697.12.24 = { leader = {	name = "Nálim Potter"         	type = general	fire = 4	shock = 5	manuever = 6	siege = 4	birth_date = 1677.6.29	death_date = 1734.5.5 }	}
+
+1703.5.8 = {
+	monarch = {
+		name = "Ábel IV"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1677.6.1
+		death_date = 1711.5.7		
+		adm = 4
+		dip = 3
+		mil = 5
+		leader = {	name = "Ábel IV Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	heir = {
+		name = "László"
+		monarch_name = "László V"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1702.3.9
+		death_date = 1711.5.7		
+		adm = 5
+		dip = 5
+		mil = 2
+		leader = {	name = "László V Orsolya-Székely"         	type = general	fire = 2	shock = 2	manuever = 2	siege = 2 }
+	}
+	queen = {
+		country_of_origin = HUN
+		name = "Julianna"
+		dynasty = "Füstös"
+		birth_date = 1681.11.18
+		death_date = 1711.5.7
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1711.5.7 = {
+	monarch = {
+		name = "János I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1683.3.4
+		death_date = 1715.4.15		
+		adm = 6
+		dip = 5
+		mil = 4
+		leader = {	name = "János I Orsolya-Székely"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 4 }
+	}
+	heir = {
+		name = "János"
+		monarch_name = "János II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1713.1.16
+		death_date = 1772.8.25		
+		adm = 3
+		dip = 3
+		mil = 5
+		leader = {	name = "János II Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	queen = {
+		country_of_origin = HUN
+		name = "Erzsébet"
+		dynasty = "Eszterházy"
+		birth_date = 1683.7.19
+		death_date = 1736.2.27
+		female = yes
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+}
+
+1715.4.15 = {
+	monarch = {
+		name = "Gergely I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1686.7.22
+		death_date = 1718.5.10		
+		adm = 6
+		dip = 2
+		mil = 5
+		leader = {	name = "Gergely I Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	leader = {	name = "Dessewffy Máté"         	type = general	fire = 4	shock = 4	manuever = 5	siege = 5	death_date = 1734.5.5 }
+}
+
+1718.5.10 = {
+	monarch = {
+		name = "Dessewffy Máté"
+		birth_date = 1677.6.29
+		death_date = 1734.5.5
+		adm = 4
+		dip = 6
+		mil = 5
+		regent = yes
+	}
+	heir = {
+		name = "István"
+		monarch_name = "István IX"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1710.11.9
+		death_date = 1764.6.16		
+		adm = 5
+		dip = 5
+		mil = 3
+		leader = {	name = "István IX Orsolya-Székely"         	type = general	fire = 3	shock = 3	manuever = 3	siege = 3 }
+	}
+}
+
+1725.11.9 = {
+	monarch = {
+		name = "István IX"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1710.11.9
+		death_date = 1764.6.16		
+		adm = 5
+		dip = 5
+		mil = 3
+		leader = {	name = "István IX Orsolya-Székely"         	type = general	fire = 3	shock = 3	manuever = 3	siege = 3 }
+	}
+	heir = {
+		name = "Káin"
+		monarch_name = "Káin III"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1727.1.16
+		death_date = 1752.8.25		
+		adm = 1
+		dip = 3
+		mil = 3
+		leader = {	name = "Káin III Orsolya-Székely"         	type = general	fire = 3	shock = 3	manuever = 3	siege = 3 }
+	}
+	queen = {
+		country_of_origin = VEN
+		name = "Valeria"
+		dynasty = "Vivere-Verdi"
+		birth_date = 1710.7.11
+		death_date = 1772.8.25
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+}
+
+1739.1.1 = { leader = {	name = "Ferenc Nádasdy"        	type = general	fire = 1	shock = 4	manuever = 4	siege = 0	death_date = 1763.1.1 } }
+
+1744.1.1 = { leader = {	name = "András Hadik"          	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1790.3.12 } }
+
+1752.8.25 = {
+	heir = {
+		name = "Ábel"
+		monarch_name = "Ábel V"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1741.1.7
+		death_date = 1762.6.28		
+		adm = 1
+		dip = 1
+		mil = 2
+		leader = {	name = "Ábel V Orsolya-Székely"         	type = general	fire = 2	shock = 2	manuever = 2	siege = 2 }
+	}
+}
+
+1764.6.16 = {
+	monarch = {
+		name = "János II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1713.1.16
+		death_date = 1772.8.25		
+		adm = 3
+		dip = 3
+		mil = 5
+		leader = {	name = "János II Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+	heir = {
+		name = "János"
+		monarch_name = "János III"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1762.2.19
+		death_date = 1771.4.30		
+		adm = 2
+		dip = 5
+		mil = 6
+		leader = {	name = "János III Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	queen = {
+		country_of_origin = HUN
+		name = "Anna"
+		dynasty = "Nádasdy"
+		birth_date = 1720.6.18
+		death_date = 1771.4.30
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}
+
+1772.8.25 = {
+	monarch = {
+		name = "István X"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1739.8.1
+		death_date = 1782.10.14		
+		adm = 2
+		dip = 4
+		mil = 4
+		leader = {	name = "István X Orsolya-Székely"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 4 }
+	}
+	heir = {
+		name = "Mátyás"
+		monarch_name = "Mátyás I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1758.7.9
+		death_date = 1812.7.4		
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = {	name = "Mátyás I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	queen = {
+		country_of_origin = FER
+		name = "Maria"
+		dynasty = "d'Este"
+		birth_date = 1744.5.10
+		death_date = 1804.7.03
+		female = yes
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1782.10.14 = {
+	monarch = {
+		name = "Mátyás I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1758.7.9
+		death_date = 1812.7.4		
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = {	name = "Mátyás I Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+	heir = {
+		name = "Julianna Sára"
+		monarch_name = "Julianna Sára I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1786.6.7
+		death_date = 1888.12.4
+		female = yes
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+	queen = {
+		country_of_origin = HUN
+		name = "Izabella"
+		dynasty = "Rákóczi"
+		birth_date = 1762.7.2
+		death_date = 1816.1.15
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1784.1.1 = { capital = 153 } # Buda
+
+1812.7.4 = {
+	monarch = {
+		name = "Julianna Sára I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1786.6.7
+		death_date = 1888.12.4
+		female = yes
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+	queen {
+		name = "István"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1785.2.21
+		death_date = 1867.3.30
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1813.6.7. = {
+	heir = {
+		name = "Renáta"
+		monarch_name = "Renáta I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1813.6.7.
+		death_date = 1894.1.15.
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+}
+
+1888.12.4 = {
+	monarch = {
+		name = "Renáta I"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1813.6.7
+		death_date = 1894.1.15
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+}
+
+1894.1.15 = {
+	monarch = {
+		name = "Ábel V"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1819.1.28
+		death_date = 1902.2.6		
+		adm = 3
+		dip = 5
+		mil = 5
+		leader = {	name = "Ábel V Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+}
+
+1902.2.6 = {
+	monarch = {
+		name = "Káin III"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1824.7.28.
+		death_date = 1906.7.4		
+		adm = 3
+		dip = 2
+		mil = 6
+		leader = {	name = "Káin III Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
+
+1906.7.4 = {
+	monarch = {
+		name = "Gergely II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1872.9.3
+		death_date = 1914.6.28		
+		adm = 4
+		dip = 2
+		mil = 4
+		leader = {	name = "Gergely II Orsolya-Székely"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 4 }
+	}
+}
+
+1914.6.28. = {
+	monarch = {
+		name = "Béla V"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1888.1.11
+		death_date = 1949.5.9		
+		adm = 3
+		dip = 5
+		mil = 5
+		leader = {	name = "Béla V Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+}
+
+1949.5.9 = {
+	monarch = {
+		name = "Mátyás II"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1922.9.9
+		death_date = 2005.12.3		
+		adm = 3
+		dip = 4
+		mil = 3
+		leader = {	name = "Mátyás II Orsolya-Székely"         	type = general	fire = 3	shock = 3	manuever = 3	siege = 3 }
+	}
+}
+
+2005.12.3 = {
+	monarch = {
+		name = "László V"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 1952.12.28
+		adm = 5
+		dip = 1
+		mil = 5
+		leader = {	name = "László V Orsolya-Székely"         	type = general	fire = 5	shock = 5	manuever = 5	siege = 5 }
+	}
+}
+
+2023.3.16 = {
+	monarch = {
+		name = "Ábel VI"
+		dynasty = "Orsolya-Székely"
+		culture = hungarian
+		birth_date = 2005.12.4	
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Ábel VI Orsolya-Székely"         	type = general	fire = 6	shock = 6	manuever = 6	siege = 6 }
+	}
+}
